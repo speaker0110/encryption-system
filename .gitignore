@@ -1,0 +1,6 @@
+*~
+*.swp
+*.exe
+
+ciphertext.txt
+plaintext-recovered.txt
